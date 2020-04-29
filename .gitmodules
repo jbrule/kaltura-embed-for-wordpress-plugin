@@ -1,0 +1,4 @@
+[submodule "kaltura-sdk"]
+	path = kaltura-sdk
+	url = https://github.com/kaltura/KalturaGeneratedAPIClientsPHP53.git
+	ignore = untracked
